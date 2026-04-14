@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyObuffd4RjxSJ0jHZWOLb3e",
+      "authorship_tag": "ABX9TyO+FSDHaAk/A6RjKIgdSKn5",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -25,6 +25,15 @@
       "source": [
         "<a href=\"https://colab.research.google.com/github/arthuralvesja25-ai/PA-1F-grupo-A/blob/main/aula_do_dia_14_1f_turmaA.\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "ub3t_EG1cJbN"
+      },
+      "execution_count": null,
+      "outputs": []
     },
     {
       "cell_type": "code",
